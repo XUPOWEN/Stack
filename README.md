@@ -68,3 +68,7 @@ print(s.peek())
 print(s.is_empty())
 </pre>
 
+#輸出結果
+
+![01](https://github.com/XUPOWEN/Stack/blob/main/code.png)
+
